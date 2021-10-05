@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.430f649b.chunk.css",
+    "main.js": "/static/js/main.9f3bb49e.chunk.js",
+    "main.js.map": "/static/js/main.9f3bb49e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.799cbd69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.799cbd69.js.map",
+    "static/js/2.65e256f8.chunk.js": "/static/js/2.65e256f8.chunk.js",
+    "static/js/2.65e256f8.chunk.js.map": "/static/js/2.65e256f8.chunk.js.map",
+    "static/js/3.ec591d1b.chunk.js": "/static/js/3.ec591d1b.chunk.js",
+    "static/js/3.ec591d1b.chunk.js.map": "/static/js/3.ec591d1b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.430f649b.chunk.css.map": "/static/css/main.430f649b.chunk.css.map",
+    "static/js/2.65e256f8.chunk.js.LICENSE.txt": "/static/js/2.65e256f8.chunk.js.LICENSE.txt",
+    "static/media/co2.4837aad8.svg": "/static/media/co2.4837aad8.svg",
+    "static/media/eco-factory.707bf0e0.svg": "/static/media/eco-factory.707bf0e0.svg",
+    "static/media/plan.8f869800.svg": "/static/media/plan.8f869800.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.799cbd69.js",
+    "static/js/2.65e256f8.chunk.js",
+    "static/css/main.430f649b.chunk.css",
+    "static/js/main.9f3bb49e.chunk.js"
+  ]
+}
